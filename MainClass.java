@@ -18,7 +18,7 @@ public class MainClass {
                 System.out.println("dead heat");
                 break;
             }
-            g.blabla();
+//            g.blabla();
 
             g.aiTurn();
             g.printMap();
