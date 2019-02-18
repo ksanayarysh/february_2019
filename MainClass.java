@@ -29,7 +29,7 @@ public class MainClass {
                 break;
             }
             if (g.isMapFull()){
-                System.out.println("dead heat");
+                System.out.println("Dead heat");
                 break;
             }
 
