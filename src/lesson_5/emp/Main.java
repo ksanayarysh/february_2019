@@ -1,4 +1,4 @@
-package lesson_5;
+package lesson_5.emp;
 
 public class Main {
     public static void main(String[] args) {
